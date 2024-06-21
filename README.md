@@ -8,7 +8,7 @@
 
 - <b>PowerShell</b>
 
-  - [FIM (File Integrity Monitor)](https://github.com/jycybersec/PowerShell-Integrity-FIM)
+  - File Integrity Monitoring Script (https://github.com/jycybersec/PowerShell-FIM-script)
 <h3>:shield:Defensive Security</h3>
 - <b>SIEM (Elastic)</b>
 <h3>:computer:Coding</h3>
