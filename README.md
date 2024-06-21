@@ -11,7 +11,6 @@
 - <b>PowerShell</b>
 
   - File Integrity Monitoring Script (https://github.com/jycybersec/PowerShell-FIM-script)
-<h3>:computer:Coding</h3>
 
 ## Connect with Me
 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/jack-yorgason-21940a24a/%29).
