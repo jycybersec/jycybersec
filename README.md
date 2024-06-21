@@ -4,10 +4,10 @@
 
 <h3>:crossed_swords:Offensive Security</h3>
 - <b>Malware</b>
-  - [Bypassing Microsoft Defender ](https://github.com/jycybersec/...)
+  - [Bypassing Microsoft Defender ](Coming Soon...)
 
 <h3>:shield:Defensive Security</h3>
-- <b>SIEM (Elastic)</b> </br>  </br>
+- <b>SIEM (Elastic)</b> </br> Loading... </br>
 - <b>PowerShell</b>
 
   - File Integrity Monitoring Script (https://github.com/jycybersec/PowerShell-FIM-script)
