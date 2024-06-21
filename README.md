@@ -8,7 +8,7 @@
 
 <h3>:shield:Defensive Security</h3>
 - <b>SIEM (Elastic)</b> </br> Loading... </br> </br>
-- <b>PowerShell File Integrity Monitoring Script (https://github.com/jycybersec/PowerShell-FIM-script)</b>
+- <b>PowerShell File Integrity Monitoring Script</b><br> (https://github.com/jycybersec/PowerShell-FIM-script)</b>
 
 ## :electric_plug: Connect with Me
 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/jack-yorgason-21940a24a/%29).
