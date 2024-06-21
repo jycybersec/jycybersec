@@ -2,16 +2,16 @@
 
 <h2>:closed_lock_with_key: Cybersecurity Projects:</h2>
 
-<h3>👨‍💻Offensive Security</h3>
+<h3>:crossed_swords:Offensive Security</h3>
 - <b>Loading...</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 
 - <b>PowerShell</b>
 
   - [FIM (File Integrity Monitor)](https://github.com/jycybersec/PowerShell-Integrity-FIM)
-<h3>👨‍💻Defensive Security</h3>
+<h3>:shield:Defensive Security</h3>
 
-<h3>👨‍💻Coding</h3>
+<h3>:computer:Coding</h3>
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
