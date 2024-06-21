@@ -3,8 +3,8 @@
 <h2>:closed_lock_with_key: Cybersecurity Projects:</h2>
 
 <h3>:crossed_swords:Offensive Security</h3>
-- <b>Loading...</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Malware</b>
+  - [Bypassing Microsoft Defender ](https://github.com/jycybersec/...)
 
 - <b>PowerShell</b>
 
