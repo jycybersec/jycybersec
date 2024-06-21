@@ -12,6 +12,6 @@
 
   - File Integrity Monitoring Script (https://github.com/jycybersec/PowerShell-FIM-script)
 
-## Connect with Me
+## :electric_plug: Connect with Me
 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/jack-yorgason-21940a24a/%29).
 
