@@ -7,7 +7,7 @@
   - [Bypassing Microsoft Defender ](Coming Soon...)
 
 <h3>:shield:Defensive Security</h3>
-- <b>SIEM (Elastic)</b> </br> Loading... </br>
+- <b>SIEM (Elastic)</b> </br> Loading... </br> </br>
 - <b>PowerShell</b>
 
   - File Integrity Monitoring Script (https://github.com/jycybersec/PowerShell-FIM-script)
