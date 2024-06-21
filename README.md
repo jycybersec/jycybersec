@@ -1,6 +1,6 @@
 <h1>Hi, I'm Jack Yorgason! <br/></h1>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>:closed_lock_with_key: Cybersecurity Projects:</h2>
 
 <h3>👨‍💻Offensive Security</h3>
 - <b>Loading...</b>
