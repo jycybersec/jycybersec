@@ -7,13 +7,11 @@
   - [Bypassing Microsoft Defender ](https://github.com/jycybersec/...)
 
 <h3>:shield:Defensive Security</h3>
-- <b>SIEM (Elastic)</b> </br>
+- <b>SIEM (Elastic)</b> </br>  </br>
 - <b>PowerShell</b>
 
   - File Integrity Monitoring Script (https://github.com/jycybersec/PowerShell-FIM-script)
 <h3>:computer:Coding</h3>
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
 ## Connect with Me
 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/jack-yorgason-21940a24a/%29).
