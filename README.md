@@ -7,5 +7,5 @@
 - <b><a href="https://github.com/jycybersec/PowerShell-FIM-script">:file_folder: PowerShell File Integrity Monitoring Script</a></b>
 
 ## :electric_plug: Connect with Me
-Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/jack-yorgason-21940a24a/%29).
+Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/jack-yorgason).
 
