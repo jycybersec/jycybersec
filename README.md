@@ -2,7 +2,7 @@
 
 <h2>:shield: Cybersecurity Projects:</h2>
 
-- <b><a href="https://github.com/jycybersec/Ethical-Hacking-Guide">🕵️‍♂ Ethical Hacking/Penetration Testing Guide</a></b> </br> </br> <details> <summary>Click for Tactic Category List</summary>
+- <b><a href="https://github.com/jycybersec/Ethical-Hacking-Guide">🕵️‍♂ Ethical Hacking/Penetration Testing Guide</a></b> </br> </br> <details> <summary>Click to View Adversary Tactic Category List</summary>
                 - <b><a href="https://github.com/jycybersec/Ethical-Hacking-Guide/blob/main/OSINT%20Gathering.md"> OSINT Gathering</a> 🔎</b></br> </br>
                 - <b><a href="https://github.com/jycybersec/Ethical-Hacking-Guide/blob/main/Nmap%20Scanning.md"> Nmap Scanning</a> 🦠</b></br> </br>
                 - <b><a href="https://github.com/jycybersec/Ethical-Hacking-Guide/blob/main/Nessus%20Vulnerability%20Assesment.md"> Nessus Vulnerability Assesment</a> 🐞</b></br> </br>
