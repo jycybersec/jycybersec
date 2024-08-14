@@ -10,7 +10,7 @@
                 - <b><a href="https://github.com/jycybersec/Ethical-Hacking-Guide/blob/main/Metasploit%20Exploitation.md"> Metasploit Exploitation</a> ☠️</b></br> </br>
                 - <b><a href="https://github.com/jycybersec/Ethical-Hacking-Guide/blob/main/Password%20Hash%20Gathering.md"> Password Hash Gathering</a> #️⃣</b></br> </br>
                 - <b><a href="https://github.com/jycybersec/Ethical-Hacking-Guide/blob/main/Password%20Cracking.md"> Password Cracking</a> 💔</b></br> </br>
-                - <b><a href="https://github.com/jycybersec/Ethical-Hacking-Guide/blob/main/Social%20Engineering.md"> Social Engineering </a> 🎭</b></br> </br></details>
+                - <b><a href="https://github.com/jycybersec/Ethical-Hacking-Guide/blob/main/Social%20Engineering.md"> Social Engineering</a> 🎭</b></br> </br></details>
 - <b><a href="https://github.com/jycybersec/SIEM-ELASTIC">:desktop_computer: SIEM (Elastic) with Advanced Threat Detections and Attack Simulations</a></b></br> </br>
 - <b><a href="https://github.com/jycybersec/SNORT-IDS-IPS">:pig_nose: Snort IDS/IPS - Custom Rules and Alert Management</a></b></br> </br>
 - <b><a href="https://github.com/jycybersec/PowerShell-FIM-script">:file_folder: PowerShell File Integrity Monitoring Script</a></b>
